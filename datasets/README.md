@@ -23,6 +23,30 @@ Las variables presentes son:
 
 Pueden ver más información en la competencia de [Kaggle](https://www.kaggle.com/datasets/laotse/credit-risk-dataset).
 
+### **BDs_empleo_impo.zip**
+
+Se encuentra zipeada ya que tiene un tamaño grande. Se dispone de datos de importaciones de productos de las empresas argentinas para el año 2017 desde las distintas aduanas. Puede servir para analizar el posible agrupamiento en alguna de las siguientes dimensiones: i) por tipo de actividad ii) por tipo de producto iii) país procedencia iv) aduana v) medio de transporte vi) destino nacional.
+
+Las variables incluidas en la base son:
+ 
+- Estado: estado de la mercadería
+- Año: año de información 
+- medio_tra: medio de transporte utilizado
+- umed_decl: unidad de medida declarada
+- umed_estad: unidad de medida estadarizada
+- aduana: aduana por la que ingresa la mercadería
+- procedenc: país de la mercadería
+- destinac: destino que se le da a la mercadería en el país
+- mes: mes de la importación de la mercadería
+- posic_sim: posición arancelaria de la mercadería (revisar nomenclatura)
+- cant_decl: cantidad de mercadería en la unidad declarada
+- cant_unest: cantidad en unidades estandarizada
+- fob: precio FOB
+- kilos: peso de la mercadería en kilos
+- cif: precio CIF
+- id: identificador de la empresa importadora anonimizada
+ 
+
 ### **SP500 oil gold bitcoin.csv**
 
 La base de datos contiene información sobre diferentes activos, a fin de estudiar su comportamiento.
